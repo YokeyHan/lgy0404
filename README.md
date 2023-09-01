@@ -13,24 +13,11 @@
   <code><a href="https://www.instagram.com/osman__durdag/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
 </h5>
 <br>
-<p align="center">
-  Hi, I'm Osman DURDAĞ, Research Assistant & Computer Engineer & Software Developer from Turkey
-  <br>
-  <br>
-  🔬 I'm currently studying for a master's degree in Atatürk University Computer Engineering Department
-  <br>
-  🎓 I graduated from Black Sea Technical University Computer Engineering Department
-  <br>
-  🎓 I graduated from Erzurum İbrahim Hakkı Science High School
-  <br>
-  💻 I love writing code and learn anythings about it
-  <br>
-  📚 I’m currently learning how to build E-Commerce Website with Django
-  <br>
-  💬 Ask me anything about from <a href="https://github.com/lgy0404/lgy0404/issues" title="Issues">Here</a>
-  <br>
-  📫 How to reach me: <a href="mailto: osmandurdag@hotmail.com">osmandurdag@hotmail.com</a>
-</p>
+
+I am **Guangyi Liu (刘广义)**, a M.E. candidate at the [NeSC Group](http://nesc.zju.edu.cn/#/), [Zhejiang University](https://www.zju.edu.cn/), advised by [Wenchao Meng](https://person.zju.edu.cn/wmeng). I received my B.S. degree with honors in Automation from [China University of Mining and Technology](https://www.cumt.edu.cn/) in 2023, advised by Prof. [Wei Dai](http://faculty.cumt.edu.cn/DaiW/zh_CN/index/175772/list/index.htm).
+
+My primary research interests include **federated learning**, **dataset distillation** and their intersections. If you have any academic problems or seeking any form of cooperation, please feel free to email me at [guangyiliu@zju.edu.cn]( guangyiliu@zju.edu.cn) 😃
+
 
 <hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
