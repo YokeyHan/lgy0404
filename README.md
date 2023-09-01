@@ -5,11 +5,12 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi👋+I+am+Guangyi+Liu;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
-
 <h5 align="center">
   <code><a href="https://lgy0404.github.io/" title="Homepage Profile"><img width="22" src="images/homepage.png"> Homepage</a></code>
-  <code><a href="mailto:guangyiliu@zju.edu.cn" title="Stack Overflow Profile"><img width="22" src="images/email-blue.png"> Email </a></code>
+  <code><a href="https://twitter.com/liuguangyi0404?s=09" title="Twitter Profile"><img width="22" src="images/twitter.png"> Twitter</a></code>
+  <code><a href="mailto:guangyiliu@zju.edu.cn" title="Email"><img width="22" src="images/email-blue.png"> Email </a></code>
 </h5>
+
 <br>
 
 🔬 I am **Guangyi Liu (刘广义)**, a M.E. candidate at the [NeSC Group](http://nesc.zju.edu.cn/#/), [Zhejiang University](https://www.zju.edu.cn/), advised by [Wenchao Meng](https://person.zju.edu.cn/wmeng). 
