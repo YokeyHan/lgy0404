@@ -6,9 +6,9 @@
   </a>
 </h1>
 <h5 align="center">
-  <code><a href="https://lgy0404.github.io/" title="Homepage Profile"><img width="22" src="images/homepage.png"> Homepage</a></code>
-  <code><a href="https://500px.com.cn/lgy0404" title="Photo Profile"><img width="22" src="images/500px.png"> Photo</a></code>
-  <code><a href="mailto:guangyiliu@zju.edu.cn" title="Email"><img width="22" src="images/email-blue.png"> Email </a></code>
+  <code><a href="https://lgy0404.github.io/" title="Homepage Profile">✨HOMEPAGE</a></code>
+  <code><a href="https://500px.com.cn/lgy0404" title="Photo Profile">📷PHOTO</a></code>
+  <code><a href="mailto:guangyiliu@zju.edu.cn" title="Email">📧CONTACT</a></code>
 </h5>
 
 <br>
@@ -19,7 +19,7 @@
 
 📚 My primary research interests include **federated learning**, **dataset distillation** and their intersections. 
 
-💬 If you have any academic problems or seeking any form of cooperation, please feel free to email me at [guangyiliu@zju.edu.cn]( guangyiliu@zju.edu.cn) 😃
+💬 If you have any academic problems or seeking any form of cooperation, please feel free to email me at [guangyiliu@zju.edu.cn](mailto:guangyiliu@zju.edu.cn) 😃
 
 
 
