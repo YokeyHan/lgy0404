@@ -17,7 +17,7 @@
 
 🎓 I received my B.S. degree in Automation from [China University of Mining and Technology](https://www.cumt.edu.cn/) in 2023, advised by Prof. [Wei Dai](http://faculty.cumt.edu.cn/DaiW/zh_CN/index/175772/list/index.htm).
 
-📚 My primary research interest is **federated learning**, **dataset distillation** and their intersections.
+📚 My primary research interest is large language model based agents.
 
 💬 If you have any academic problems or seeking any form of cooperation, please feel free to email me at [guangyiliu@zju.edu.cn](mailto:guangyiliu@zju.edu.cn) 😃
 
