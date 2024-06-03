@@ -13,9 +13,7 @@
 
 <br>
 
-🔬 I am **Guangyi Liu (刘广义)**, a M.E. candidate at the [NeSC Group](http://nesc.zju.edu.cn/#/), [Zhejiang University](https://www.zju.edu.cn/), advised by [Wenchao Meng](https://person.zju.edu.cn/wmeng). 
-
-🎓 I received my B.S. degree in Automation from [China University of Mining and Technology](https://www.cumt.edu.cn/) in 2023, advised by Prof. [Wei Dai](http://faculty.cumt.edu.cn/DaiW/zh_CN/index/175772/list/index.htm).
+🔬 I am **Guangyi Liu (刘广义)**, a M.E. candidate at [Zhejiang University](https://www.zju.edu.cn/). 
 
 📚 My primary research interest is large language model based agents.
 
