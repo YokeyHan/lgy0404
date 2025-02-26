@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi👋+I+am+Guangyi+Liu;Nice+to+meet+you!&center=true&size=30">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&width=435&lines=Hi+%EF%BC%8CI'm+YuKai+Han%EF%BC%8Cnice+to+meet+you%EF%BC%81;%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E6%98%AF%E9%9F%A9%E7%8E%89%E5%87%AF%EF%BC%8C%E5%BE%88%E9%AB%98%E5%85%B4%E8%AE%A4%E8%AF%86%E4%BD%A0%EF%BC%81" alt="Typing SVG" />
   </a>
 </h1>
 <h5 align="center">
@@ -13,11 +13,11 @@
 
 <br>
 
-🔬 I am **Guangyi Liu (刘广义)**, a M.E. candidate at [Zhejiang University](https://www.zju.edu.cn/). 
+🔬 I am **Yukai Han (韩玉凯)**, a M.E. candidate at [University of Science and Technology of China](https://www.zju.edu.cn/). 
 
 📚 My primary research interest is large language model based agents.
 
-💬 If you have any academic problems or seeking any form of cooperation, please feel free to email me at [guangyiliu@zju.edu.cn](mailto:guangyiliu@zju.edu.cn) 😃
+💬 If you have any academic problems or seeking any form of cooperation, please feel free to email me at [2606355537@qq.com](mailto:guangyiliu@zju.edu.cn) 😃
 
 
 
